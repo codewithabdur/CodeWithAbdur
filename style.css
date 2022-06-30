@@ -1,0 +1,33 @@
+#status{
+    weidth: 90%;
+    max-width: 500px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+#status.success{
+    background-color: rgb(147, 242, 87);
+    width: 50%;
+    animation: status 4s ease forwards;
+    
+}
+#status.error{
+    background-color: rgb(242, 87, 87);
+    color: antiquewhite;
+    animation: status 4s ease forwards;
+}
+@keyframes status {
+    0%{
+        opacity: 1;
+        pointer-events: all;
+    }
+    90%{
+        opacity: 1;
+        pointer-events: all;
+    }
+    100%{
+        opacity: 0;
+        pointer-events: none;
+    }
+}
