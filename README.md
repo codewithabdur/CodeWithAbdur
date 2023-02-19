@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my gmail "abdurrahmankhan2003@gmail.com" 
+- 📫 You can reach me through my gmail "codewithabdur.react@gmail.com"
+- 🌐 My official website " https://official-blog-website.netlify.app " 
 
 <!---
 codewithabdur/codewithabdur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
